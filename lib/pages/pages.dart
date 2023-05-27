@@ -1,0 +1,1 @@
+export 'package:my_money_note/pages/main_menu.dart';
